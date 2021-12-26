@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/HarrisonHenri/fullcycle-grpc/pb"
+	"github.com/HarrisonHenri/full-cycle-grpc/pb"
 )
 
 type UserService struct {
